@@ -1,3 +1,3 @@
 # fraud-detection
-Credit Card Fraud Detection Using Logistic Regression
-Fraud detection - under sampling
+1. Credit Card Fraud Detection Using Logistic Regression
+2. Fraud detection - under sampling
